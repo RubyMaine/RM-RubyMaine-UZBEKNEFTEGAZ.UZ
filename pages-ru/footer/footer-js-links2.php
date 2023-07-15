@@ -1,0 +1,1 @@
+	<script MediaJS.LL="Laravel Screen Flex JS.Classes" type="text/javascript" src="js/hamburger.js"></script>

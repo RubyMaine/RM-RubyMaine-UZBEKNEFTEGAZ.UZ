@@ -1,0 +1,1 @@
+	<link MediaCSS.LL="Laravel Screen Flex Classes" rel="stylesheet" type="text/css" href="css/template.css" >
